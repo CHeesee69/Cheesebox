@@ -1,2 +1,2 @@
 # Cheesebox
-A portable emulation device
+An emulation device using the CM5 board
