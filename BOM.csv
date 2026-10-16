@@ -1,0 +1,40 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+Capacitor 0.1uF 100v,12,$0.92,https://www.digikey.com/en/products/detail/kemet/C0603C104K5RACTU/1465594,0603_16081.08x0.95mm
+Capacitor 10uF 10v,5,$0.90,https://www.digikey.com/en/products/detail/kemet/C0805C104K5RACTU/411169,0805_201218x1.45mm
+Capacitor 22uF 10v,4,$0.64,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21X226MRQNNNE/3886860,0805_201218x1.45mm
+Capacitor 6.8uF 10v,3,$1.29,https://www.digikey.com/en/products/detail/tdk/CGA4J3X7S1A685K125AB/4712732,0805_201218x1.45mm
+Red LED,4,$0.64,https://www.digikey.com/en/products/detail/ams-osram-ag/KB-TATPE1-13-P1S1-B2B3-1-5-R18/29199152,0603_16081.05x0.95mm
+Polyfuse 500ma,2,$1.28,https://www.digikey.com/en/products/detail/littelfuse-inc/1206L025YR/455696,1206_32161.42x1.75mm
+Polyfuse 1100ma,5,$3.51,https://www.digikey.com/en/products/detail/littelfuse-inc/2016L050MR/1211281?s=N4IgjCBcpgHAzFUBjKAzAhgGwM4FMAaEAeygG0R5ZYA2AVgAYQBdIgBwBcoQBlDgJwCWAOwDmIAL5EaCJCFSRMuQiXLgAdGAAEAQRbsukEAFVhgjgHk0AWTwYcAV355JUkACY1bYlgCeaB3wWCSA,1210_32251.42x2.65mm
+Ferrite Bead,2,$0.20,https://www.digikey.com/en/products/detail/laird-signal-integrity-products/MI0805K400R-10/806627,0805_20121.05x1.20mm
+Raspberry Pi CM5,1,$170.00,https://www.pishop.us/product/raspberry-pi-compute-module-5-wireless-8gb-ram-lite-cm5108000/?src=raspberrypi,8 Gb ram
+Active Cooler for CM5,1,$8.95,https://www.pishop.us/product/active-cooler-for-raspberry-pi-cm5/?searchuuid=edd461ea-42db-4a3b-9e1a-210b2fd1cb63&search_query=cm5,cooler with 3 pin fan
+M.2 socket,1,$2.16,https://www.digikey.com/en/products/detail/attend-technology/123A-30M00/23626211,Mkey H3.0
+Stereo/Mic Jack,1,$0.73,https://www.digikey.com/en/products/detail/tensility-international-corp/54-00174/12140150,4COND 3.50MM
+Magjack Ethernet port,1,$4.76,https://www.l-p.com/products/434027.htm?srsltid=AU7gw4Us8iex0d0_V0Est4hrAHxZLfrxMQWN-HRYVrUfk9vrsco42GAx,Pulse JK0-0177NL
+HDMI Recepticle,1,$1.91,https://www.digikey.com/en/products/detail/amphenol-cs-fci/10029449-001RLF/1001325,HDMI 1.4
+USBC Recepticle,2,$3.60,https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/12401598E4-2A/6051823?s=N4IgTCBcDaIIxgCwAY4FYCcAOAoogxGAIIgC6AvkA,USB 3.2
+Inductor Coil,1,$2.35,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/74437324015/2791044?s=N4IgTCBcDaIOwBYEGY7LAgDARgKwgF0BfIA,Würth Elektronik
+LED transistor,1,$0.33,https://www.digikey.com/en/products/detail/onsemi/BSS138/244210,SOT-23 
+Resistor 5.1K Ω,4,$0.40,https://www.digikey.com/en/products/detail/bourns-inc/CR0805-JW-512ELF/3785337,0805_201218x1.45mm
+Resistor 10K Ω,11,$1.10,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676,0805_201218x1.45mm
+Resistor 330 Ω,4,$0.44,https://www.digikey.com/en/products/detail/yageo/AC0805JR-07330RL/5897122,0805_201218x1.45mm
+Resistor 33.2K Ω,1,$0.10,https://www.digikey.com/en/products/detail/bourns-inc/CR1206-FX-3322ELF/2562978,1206_32161.42x1.75mm
+Resistor 10K Ω,2,$0.20,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669,1206_32161.42x1.75mm
+Resistor 1M Ω,1,$0.20,https://www.digikey.com/en/products/detail/bourns-inc/CRT1206-BY-1004ELF/1775028,0805_201218x1.45mm
+Resistor 110 Ω,1,$0.10,https://www.digikey.com/en/products/detail/yageo/RC1206FR-07110RL/728507,0805_201218x1.45mm
+Resistor 90.9K Ω,1,$0.10,https://www.digikey.com/en/products/detail/yageo/RC1206FR-0790K9L/729165,1206_32161.42x1.75mm
+Resistor 2.2K,1,$0.10,https://www.digikey.com/en/products/detail/yageo/RC0805FR-072K2L/727676,0805_201218x1.45mm
+Tactile switch,1,$0.13,https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536,6.0mm x H5.0mm
+USBC Splitter,1,$4.09,https://www.digikey.com/en/products/detail/texas-instruments/HD3SS6126RUAR/4505996?s=N4IgTCBcDaIBIBEDMBlFA2AjGdIC6AvkA,HD3SS6126RUAR
+USBC plug det,2,$3.14,https://www.digikey.com/en/products/detail/texas-instruments/BQ24392QRSERQ1/4990658,BQ24392QRSERQ1
+Step Down converter,1,$1.24,https://www.digikey.com/en/products/detail/texas-instruments/TPS563200DDCR/5034343,TPS563200DDCR
+USBC controler/hub,1,$17.39,https://www.digikey.com/en/products/detail/texas-instruments/TUSB8041IPAPRQ1/4960057,TUSB8041IPAPRQ1
+Step Down converter,1,$7.90,https://www.digikey.com/en/products/detail/analog-devices-inc/LT3080IDD-PBF/2785979?s=N4IgTCBcDaIDIBUDMAGAHCgkgEWwYgAUAhAMRAF0BfIA,LT3080IDD#PBF
+AudioJack Controler,1,$10.04,https://www.digikey.com/en/products/detail/analog-devices-inc/SSM2603CPZ-REEL7/1825572,SSM2603CPZ-REEL7
+USB 2 hub,1,$0.53,https://www.lcsc.com/product-detail/C4154405.html,WCH CH334R
+Crystals,3,$0.63,https://www.digikey.com/en/products/detail/murata-electronics/CSTLS6M00G53-B0/584419,CSTLS6M00G53-B0
+4pin Fan header,1,$0.53,https://www.digikey.com/en/products/detail/molex/0470533000/3262217,470533000
+PCB,1,$41.50,https://jlcpcb.com/,My designs pcb 144 mm × 88 mm
+shipping,1,$30.41,all of them,All of the things together
+Total Price (USD):,$324.44,,,
